@@ -1,0 +1,4 @@
+3
+lamp,Something that provides light
+chair,A thing you sit on
+drink,What you need after a long day's work
